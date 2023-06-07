@@ -1,0 +1,165 @@
+{
+  "ParentObject": "New Prefab 2",
+  "DynamicBonesStructure": [
+    {
+      "m_Root": "Tail_1",
+      "m_Roots": [],
+      "m_UpdateRate": 60.0,
+      "m_UpdateMode": 3,
+      "m_Damping": 1.0,
+      "m_DampingDistrib": {
+        "serializedVersion": "2",
+        "m_Curve": [],
+        "m_PreInfinity": 2,
+        "m_PostInfinity": 2,
+        "m_RotationOrder": 4
+      },
+      "m_Elasticity": 0.10000000149011612,
+      "m_ElasticityDistrib": {
+        "serializedVersion": "2",
+        "m_Curve": [],
+        "m_PreInfinity": 2,
+        "m_PostInfinity": 2,
+        "m_RotationOrder": 4
+      },
+      "m_Stiffness": 0.10000000149011612,
+      "m_StiffnessDistrib": {
+        "serializedVersion": "2",
+        "m_Curve": [],
+        "m_PreInfinity": 2,
+        "m_PostInfinity": 2,
+        "m_RotationOrder": 4
+      },
+      "m_Inert": 0.0,
+      "m_InertDistrib": {
+        "serializedVersion": "2",
+        "m_Curve": [],
+        "m_PreInfinity": 2,
+        "m_PostInfinity": 2,
+        "m_RotationOrder": 4
+      },
+      "m_Friction": 0.0,
+      "m_FrictionDistrib": {
+        "serializedVersion": "2",
+        "m_Curve": [],
+        "m_PreInfinity": 2,
+        "m_PostInfinity": 2,
+        "m_RotationOrder": 4
+      },
+      "m_Radius": 0.0,
+      "m_RadiusDistrib": {
+        "serializedVersion": "2",
+        "m_Curve": [],
+        "m_PreInfinity": 2,
+        "m_PostInfinity": 2,
+        "m_RotationOrder": 4
+      },
+      "m_EndLength": 0.0,
+      "m_EndOffset": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "m_Gravity": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "m_Force": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "m_BlendWeight": 1.0,
+      "m_Colliders": [],
+      "m_Exclusions": [],
+      "m_FreezeAxis": 0,
+      "m_DistantDisable": false,
+      "m_ReferenceObject": "ObjectNameThatCantBeFound",
+      "m_DistanceToObject": 20.0,
+      "m_Multithread": true
+    },
+    {
+      "m_Root": "Wing_1_L",
+      "m_Roots": [
+        "Wing_2_L"
+      ],
+      "m_UpdateRate": 60.0,
+      "m_UpdateMode": 3,
+      "m_Damping": 0.10000000149011612,
+      "m_DampingDistrib": {
+        "serializedVersion": "2",
+        "m_Curve": [],
+        "m_PreInfinity": 2,
+        "m_PostInfinity": 2,
+        "m_RotationOrder": 4
+      },
+      "m_Elasticity": 0.10000000149011612,
+      "m_ElasticityDistrib": {
+        "serializedVersion": "2",
+        "m_Curve": [],
+        "m_PreInfinity": 2,
+        "m_PostInfinity": 2,
+        "m_RotationOrder": 4
+      },
+      "m_Stiffness": 0.10000000149011612,
+      "m_StiffnessDistrib": {
+        "serializedVersion": "2",
+        "m_Curve": [],
+        "m_PreInfinity": 2,
+        "m_PostInfinity": 2,
+        "m_RotationOrder": 4
+      },
+      "m_Inert": 0.0,
+      "m_InertDistrib": {
+        "serializedVersion": "2",
+        "m_Curve": [],
+        "m_PreInfinity": 2,
+        "m_PostInfinity": 2,
+        "m_RotationOrder": 4
+      },
+      "m_Friction": 0.0,
+      "m_FrictionDistrib": {
+        "serializedVersion": "2",
+        "m_Curve": [],
+        "m_PreInfinity": 2,
+        "m_PostInfinity": 2,
+        "m_RotationOrder": 4
+      },
+      "m_Radius": 0.0,
+      "m_RadiusDistrib": {
+        "serializedVersion": "2",
+        "m_Curve": [],
+        "m_PreInfinity": 2,
+        "m_PostInfinity": 2,
+        "m_RotationOrder": 4
+      },
+      "m_EndLength": 0.0,
+      "m_EndOffset": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "m_Gravity": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "m_Force": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "m_BlendWeight": 1.0,
+      "m_Colliders": [],
+      "m_Exclusions": [],
+      "m_FreezeAxis": 0,
+      "m_DistantDisable": false,
+      "m_ReferenceObject": "ObjectNameThatCantBeFound",
+      "m_DistanceToObject": 20.0,
+      "m_Multithread": true
+    }
+  ],
+  "DynamicBonesColliderStructure": [],
+  "DynamicBonesColliderPlaneStructure": []
+}
